@@ -80,4 +80,4 @@ Key Insights
 ---
 
 Project Screenshot
-![Netflix Dashboard](netflix_dashboard.png)
+"C:\Users\itach\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 105730.png"
