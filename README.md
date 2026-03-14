@@ -78,6 +78,3 @@ Key Insights
 - Action and Adventure is one of the most popular genres.
 
 ---
-
-Project Screenshot
-"C:\Users\itach\OneDrive\Pictures\Screenshots\netflix_dashboard.png"
