@@ -80,7 +80,4 @@ Key Insights
 ---
 
 Project Screenshot
-![Netflix Dashboard](images/netflix_dashboard.png)
-(Add dashboard image here)
-
----
+![Netflix Dashboard](netflix_dashboard.png)
