@@ -78,3 +78,10 @@ Key Insights
 - Action and Adventure is one of the most popular genres.
 
 ---
+
+## Project Outcome
+This project demonstrates the ability to:
+- Query data using SQL
+- Analyze netflix content performance
+- Build interactive dashboards using Power BI
+- Present business insights visually
